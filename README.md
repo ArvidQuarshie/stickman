@@ -2,4 +2,4 @@
 website on stickman animations
 
 
-http://www.stickmanfinal.bitballoon.com
+stickmanfinal.bitballoon.com
